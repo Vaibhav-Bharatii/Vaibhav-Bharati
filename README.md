@@ -1,5 +1,4 @@
 # Vaibhav-Bharati
-MY Repository
 
 Vaibhav Bharati
 Software Developer Intern | Engineering Learning Center Tutor

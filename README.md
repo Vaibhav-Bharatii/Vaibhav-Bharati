@@ -1,6 +1,5 @@
 # Vaibhav-Bharati
 
-Vaibhav Bharati
 Software Developer Intern | Engineering Learning Center Tutor
 
 I am a passionate Computer Science student at the University of Illinois Chicago (UIC) with a strong foundation in software development, problem-solving, and tutoring. My expertise spans multiple programming languages, including Python, C++, C, Java, JavaScript, and web development technologies (HTML, CSS).
